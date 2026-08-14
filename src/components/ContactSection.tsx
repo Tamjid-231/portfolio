@@ -56,7 +56,7 @@ export default function ContactSection() {
               {[
                 { icon: <Github size={16} />, href: "https://github.com/Tamjid-231", label: "GitHub" },
                 { icon: <Linkedin size={16} />, href: "https://www.linkedin.com/in/md-tamjid-hossain-0597082bb/", label: "LinkedIn" },
-                { icon: <Globe size={16} />, href: "#", label: "Portfolio" },
+                { icon: <Globe size={16} />, href: "https://tamjidportfolio.page.gd/", label: "Portfolio" },
               ].map((s) => (
                 <a
                   key={s.label}
